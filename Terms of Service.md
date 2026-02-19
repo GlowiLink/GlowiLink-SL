@@ -20,7 +20,7 @@ We maintain a zero-tolerance policy for:
 
 ### 💳 5. PAYMENTS & SUBSCRIPTIONS
 We believe in full transparency regarding your finances:
-* **Non-Refundable:** All payments for Premium features are final. We do not offer refunds for any purchases.
+* **Non-Refundable:** All payments for Premium features are final. We do not offer refunds for any purchases, except as required by law or the Google Play Refund Policy.
 * **No Auto-Renew:** Premium subscriptions are **NOT** automatically renewed. We will never surprise-charge your card.
 * **Manual Renewal:** To maintain premium access, users must manually initiate a new payment once their current subscription period expires.
 
