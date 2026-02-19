@@ -21,4 +21,4 @@ Your data belongs to you. Selecting **"Delete Account"** in the settings will tr
 
 ### 🤝 5. THIRD PARTIES & PAYMENTS
 * **Data Integrity:** We do not sell your personal data to advertisers or third-party entities.
-* **Payment Data:** Payment processing is handled by secure third-party providers. Please note that all transactions are **non-refundable** and are stored as one-time records, as we do not support auto-renewal.
+* **Payment Data:** Payment processing is handled by secure third-party providers. Please note that all transactions are **non-refundable**, except as required by law or the Google Play Refund Policy. and are stored as one-time records, as we do not support auto-renewal.
