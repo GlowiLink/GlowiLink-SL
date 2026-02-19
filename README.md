@@ -64,6 +64,7 @@ Your data belongs to you. Selecting **"Delete Account"** in the settings will tr
 ### 🤝 5. THIRD PARTIES & PAYMENTS
 * **Data Integrity:** We do not sell your personal data to advertisers or third-party entities.
 * **Payment Data:** We use Google Play Billing for all financial transactions. Your payment data is never shared with us. Please refer to Google’s Privacy Policy regarding your financial information. The payments are stored as one-time records, as we do not support auto-renewal.
+  
 * # 🌸 GlowiLink Terms of Service
 *Last Updated: February 2026*
 
