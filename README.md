@@ -23,7 +23,7 @@ GlowiLink currently supports two gender options: **Male** and **Female**. We do 
 
 #### 3. How do Subscriptions work?
 * **Manual Renewal:** We never surprise-charge your card. All premium plans are one-time payments. When your time expires, you simply pay again if you wish to continue.
-* **Refunds:** All premium purchases are **non-refundable**, except as required by law or the Google Play Refund Policy. Please review the features carefully before upgrading.
+* **Refunds:** Billing is handled exclusively by the Google Play Store. To view your receipts, cancel a subscription, or request a refund within the Google Play 48-hour window, please visit your Google Play Order History. Please review the features carefully before upgrading.
 
 ---
 
@@ -39,6 +39,7 @@ If you requested a reset link and it hasn't arrived:
 
 #### 3. Account Reactivation
 If you previously hibernated your account, simply log in. A prompt will appear asking if you'd like to reactivate. Select **Reactivate** to restore your profile.
+
 # 🛡️ GlowiLink Privacy Policy
 *Last Updated: February 2026*
 
@@ -62,7 +63,7 @@ Your data belongs to you. Selecting **"Delete Account"** in the settings will tr
 
 ### 🤝 5. THIRD PARTIES & PAYMENTS
 * **Data Integrity:** We do not sell your personal data to advertisers or third-party entities.
-* **Payment Data:** Payment processing is handled by secure third-party providers. Please note that all transactions are **non-refundable**, except as required by law or the Google Play Refund Policy, and are stored as one-time records, as we do not support auto-renewal.
+* **Payment Data:** We use Google Play Billing for all financial transactions. Your payment data is never shared with us. Please refer to Google’s Privacy Policy regarding your financial information. The payments are stored as one-time records, as we do not support auto-renewal.
 * # 🌸 GlowiLink Terms of Service
 *Last Updated: February 2026*
 
@@ -85,7 +86,7 @@ We maintain a zero-tolerance policy for:
 
 ### 💳 5. PAYMENTS & SUBSCRIPTIONS
 We believe in full transparency regarding your finances:
-* **Non-Refundable:** All payments for Premium features are final, except as required by law or the Google Play Refund Policy. We do not offer refunds for any purchases.
+* **Final Sale:** All transactions are processed by Google Play. GlowiLink has no access to your payment methods or the ability to issue direct refunds. Users must resolve all billing disputes or refund requests through the Google Play Store interface.
 * **No Auto-Renew:** Premium subscriptions are **NOT** automatically renewed. We will never surprise-charge your card.
 * **Manual Renewal:** To maintain premium access, users must manually initiate a new payment once their current subscription period expires.
 
