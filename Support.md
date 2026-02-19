@@ -22,7 +22,7 @@ GlowiLink currently supports two gender options: **Male** and **Female**. We do 
 
 #### 3. How do Subscriptions work?
 * **Manual Renewal:** We never surprise-charge your card. All premium plans are one-time payments. When your time expires, you simply pay again if you wish to continue.
-* **Refunds:** All premium purchases are **non-refundable**. Please review the features carefully before upgrading.
+* **Refunds:** All premium purchases are **non-refundable**, except as required by law or the Google Play Refund Policy. Please review the features carefully before upgrading.
 
 ---
 
