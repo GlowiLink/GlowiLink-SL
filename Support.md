@@ -7,7 +7,7 @@
 ### 📬 Contact Us
 Having trouble with your account or found a bug? We're here to help.
 
-* **Email:** glowilink01@gmail.com
+* **Email:** support@glowilink.com
 * **Response Time:** We typically reply within 24 hours.
 
 ---
