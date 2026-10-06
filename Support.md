@@ -12,7 +12,7 @@ Having trouble with your account or found a bug? We're here to help.
 
 #### 1. Can I change my Name or Age?
 No. To maintain a safe and authentic community, your **Name and Age are permanent** once you save your profile. Even our support team and admins cannot change these details for you. Please ensure they are correct before hitting save!
-It is important to note that your age will update automatically on your birthday. 
+* **It is important to note that your age will update automatically on your birthday.** 
 
 #### 2. What are the Gender options?
 GlowiLink currently supports two gender options: **Male** and **Female**. We do not support other selections at this time.
