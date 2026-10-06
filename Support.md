@@ -26,9 +26,9 @@ GlowiLink currently supports two gender options: **Male** and **Female**. We do 
 ### 🔧 Common Fixes
 
 #### 1. Verification Issues
-**OTP Delay:** If you don't receive your code right away, please wait at least 1 minute and 30 seconds before requesting a new one.
-**Lost OTP:** If you lose your code, please wait 1 hour and 30 minutes before requesting another.
-**Email Already in Use:** If your email is already registered, try logging in, or wait 2 hours if you need to reuse the address. 
+* **OTP Delay:** If you don't receive your code right away, please wait at least 1 minute and 30 seconds before requesting a new one.
+* **Lost OTP:** If you lose your code, please wait 1 hour and 30 minutes before requesting another.
+* **Email Already in Use:** If your email is already registered, try logging in, or wait 2 hours if you need to reuse the address. 
 
 #### 2. Password Reset
 If you requested a reset link and it hasn't arrived:
