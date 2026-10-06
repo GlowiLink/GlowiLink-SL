@@ -1,9 +1,5 @@
 # ⚡ GlowiLink Support
 
-> **Quick Tip:** If you're stuck on the verification screen, follow the on-screen guide and be sure to **long press the center button**.
-
----
-
 ### 📬 Contact Us
 Having trouble with your account or found a bug? We're here to help.
 
@@ -16,6 +12,7 @@ Having trouble with your account or found a bug? We're here to help.
 
 #### 1. Can I change my Name or Age?
 No. To maintain a safe and authentic community, your **Name and Age are permanent** once you save your profile. Even our support team and admins cannot change these details for you. Please ensure they are correct before hitting save!
+It is important to note that your age will update automatically on your birthday. 
 
 #### 2. What are the Gender options?
 GlowiLink currently supports two gender options: **Male** and **Female**. We do not support other selections at this time.
@@ -29,7 +26,9 @@ GlowiLink currently supports two gender options: **Male** and **Female**. We do 
 ### 🔧 Common Fixes
 
 #### 1. Verification Issues
-If the "Verify" button doesn't seem to respond, remember it requires a **long press** (hold for 1-2 seconds) rather than a quick tap.
+**OTP Delay:** If you don't receive your code right away, please wait at least 1 minute and 30 seconds before requesting a new one.
+**Lost OTP:** If you lose your code, please wait 1 hour and 30 minutes before requesting another.
+**Email Already in Use:** If your email is already registered, try logging in, or wait 2 hours if you need to reuse the address. 
 
 #### 2. Password Reset
 If you requested a reset link and it hasn't arrived:
