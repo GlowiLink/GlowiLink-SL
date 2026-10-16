@@ -2,21 +2,21 @@
 # ⚡ GlowiLink Support
 
 ### 📬 Contact Us
-Having trouble with your account or found a bug? We're here to help[cite: 16].
+Having trouble with your account or found a bug? We're here to help.
 
-* **Email:** support@glowilink.com[cite: 16]
-* **Response Time:** We typically reply within 24 hours[cite: 16].
+* **Email:** support@glowilink.com
+* **Response Time:** We typically reply within 24 hours.
 
 ---
 
 ### 🛠 Identity & Access
 
 #### 1. Can I change my Name or Age?
-No. To maintain a safe and authentic community, your **Name and Birthdate are permanent** once you save your profile[cite: 16]. Even our support team and admins cannot change these details for you. Please ensure they are correct before hitting save! 
-* **It is important to note that your age will update automatically on your birthday[cite: 16].**
+No. To maintain a safe and authentic community, your **Name and Birthdate are permanent** once you save your profile. Even our support team and admins cannot change these details for you. Please ensure they are correct before hitting save! 
+* **It is important to note that your age will update automatically on your birthday.**
 
 #### 2. What are the Gender options?
-GlowiLink currently supports two gender options: **Male** and **Female**[cite: 16]. We do not support other selections at this time[cite: 16].
+GlowiLink currently supports two gender options: **Male** and **Female**. We do not support other selections at this time.
 
 #### 3. How does Gold Access (Gold Pass) work?
 * **Rewarded Ad Model:** GlowiLink does not process financial transactions or use In-App Purchases (IAP). Premium features are unlocked voluntarily by watching rewarded video advertisements through Google Mobile Ads, granting incremental time extensions (e.g., 6 hours per ad up to a daily maximum).
@@ -27,17 +27,17 @@ GlowiLink currently supports two gender options: **Male** and **Female**[cite: 1
 ### 🔧 Common Fixes
 
 #### 1. Verification Issues
-* **OTP Delay:** If you don't receive your code right away, please wait at least 1 minute and 30 seconds before requesting a new one[cite: 16].
-* **Lost OTP:** If you lose your code, please wait 1 hour and 30 minutes before requesting another[cite: 16].
-* **Email Already in Use:** If your email is already registered, try logging in, or wait 2 hours if you need to reuse the address[cite: 16].
+* **OTP Delay:** If you don't receive your code right away, please wait at least 1 minute and 30 seconds before requesting a new one.
+* **Lost OTP:** If you lose your code, please wait 1 hour and 30 minutes before requesting another.
+* **Email Already in Use:** If your email is already registered, try logging in, or wait 2 hours if you need to reuse the address.
 
 #### 2. Password Reset
-If you requested a reset link and it hasn't arrived[cite: 16]:
-* Check your **Spam** or **Promotions** folder[cite: 16].
-* Ensure you are using the same email you registered with[cite: 16].
+If you requested a reset link and it hasn't arrived:
+* Check your **Spam** or **Promotions** folder.
+* Ensure you are using the same email you registered with.
 
 #### 3. Account Reactivation
-If you previously hibernated your account, simply log in[cite: 16]. A prompt will appear asking if you'd like to reactivate[cite: 16]. Select **Reactivate** to restore your profile[cite: 16].
+If you previously hibernated your account, simply log in. A prompt will appear asking if you'd like to reactivate. Select **Reactivate** to restore your profile.
 
 # 🛡️ GlowiLink Privacy Policy
 *Last Updated: October 2026*
@@ -78,13 +78,13 @@ To ensure the integrity and safety of our community, your profile identity is fi
 * **Gender Selection:** Selection is limited strictly to **Male** or **Female**. No other options are supported.
 
 ### 🔞 3. ELIGIBILITY
-You must be at least **18 years of age** to use GlowiLink[cite: 16]. By using the service, you represent that you have a clean criminal record and are not prohibited from using social networking platforms[cite: 16].
+You must be at least **18 years of age** to use GlowiLink. By using the service, you represent that you have a clean criminal record and are not prohibited from using social networking platforms.
 
 ### 🚫 4. CONDUCT & SAFETY
-We maintain a zero-tolerance policy for[cite: 16]:
-* **Harassment:** Bullying or stalking other users[cite: 16].
-* **Deception:** Catfishing or creating fake/impersonation profiles[cite: 16].
-* **Safety:** Any behavior that threatens community standards or safety policies[cite: 16].
+We maintain a zero-tolerance policy for:
+* **Harassment:** Bullying or stalking other users.
+* **Deception:** Catfishing or creating fake/impersonation profiles.
+* **Safety:** Any behavior that threatens community standards or safety policies.
 
 ### 🎬 5. GOLD PASS & REWARDED AD MODEL
 * **No Financial Transactions:** GlowiLink does not process financial payments or use In-App Purchases (IAP). 
